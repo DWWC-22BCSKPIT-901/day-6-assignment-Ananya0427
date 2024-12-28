@@ -16,4 +16,4 @@ path have the same character assigned to them.
 • A5.cpp  
 
 ## PDF File : 
-22BCS10246_BHAVYA_GUPTA_Day 6.pdf
+22BCS10822_Jay Ananya_Day 6.pdf
